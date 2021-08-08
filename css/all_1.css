@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+a{ text-decoration:none; color:#000}
+html{}
+img{ max-width:100%}
+body{ background:#eee; margin:0; line-height:21px}
+.logo{ text-align:center; float:left }
+.logo img{}
+.clear{ clear:both}
+.top p{ width:1200px; margin:0 auto; font-size:18px; text-align:right; line-height:40px; font-weight:bold; margin-top:20px}
+.menu li{ list-style:none}
+.banner{ position:relative; width:1200px; margin:20px auto}
+.menu{ background:#666; height:60px; width:1200px; margin:0 auto; margin-top:0px; position:relative; text-align:center;}
+.menu ul{ float:right}
+.menu li a{ color:#fff; font-size:18px;}
+.menu li { display:inline-block; margin:2px; padding:17px 20px ; font-family:"Courier New", Courier, monospace }
+.content{width:1200px; margin:0 auto; padding-bottom:20px;font-size:14px;}
+.left{ height:220px; width:420px; background:#fad7de; float:left;}
+.right{ height:220px; float:right; background:#fad7de; width:550px;}
+.end{ font-size:18px; background:#333; clear:both;  padding:20px 0;  width:1200px; margin:0 auto; margin-top:40px; color:#fff; text-align:center;}
+.pad{ padding:20px; display:block}
+.rs{ width:740px; float:right; margin-top:50px}
+.nav{ text-align:center; margin-top:0px;}
+
+.txt{ font-size:18px; width:100%; padding:10px 0; border:#999999 solid 1px; background:#fff}
+.jieshao{ background:#ccc; font-size:16px; line-height:30px; margin-top:20px; }
+.jieshao p{ margin:10px 0}
+.nav a { font-size:16px; line-height:34px; display:inline-block; padding:0px 60px;  text-align:center; background:#999999;}
+.nav p{ margin:20px 0}
+.nav a:hover{ background:#333; color:#fff}
+.nav a.hover{ background:#333; color:#fff}
+
+.con{ font-size:16px; line-height:24px; padding:0px 20px}
+.scrollleft li  img{ width:100%; height:110px}
+.cc li{ width:386px; margin:20px 10px; float:left}
+.cc{ margin-left:-10px; margin-right:-10px}
+.cc li img{ width:100%; height:220px}
+.bar{ margin:10px 20px;clear:both; text-align:center; padding:5px}
+.bar h2{ font-weight:normal; display:inline-block; margin:0 10px; position:relative; top:2px}
+.hei{ height:30px}
+.feedback  { width:60%; margin:40px auto}
+.feedback li{ margin:15px 0}
+.feedback button { background:#333; width:150px; height:40px; margin-top:20px; border:none; line-height:40px; color:#fff; font-size:14px; }
+.lx{ font-size:24px; line-height:40px}
+.like { padding-top:50px}
+.like  li img{ display:block}
+.like  li{ float:left; width:27.33%; padding:2%; background:#fff; margin:50px 1%; height:500px;}
+.like  li h2{ padding:10px 0; padding-bottom:30px}
+.like  li  p{ color:#999; font-size:16px; line-height:32px}
+.like  li a{ display:inline-block; background:#999999; color:#fff; margin:20px 0; padding:10px 20px}
+
+.like  li a:hover{ background:#CC9966}
+.icons{ margin-left:-6px; margin-right:-6px}
+.icons li{ float:left; width:24%; padding:30px 0; font-size:24px; margin:0 0.5%; background:#fff; text-align:center}
+.icons li img{ width:100px}
